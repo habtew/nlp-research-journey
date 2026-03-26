@@ -64,13 +64,13 @@ This repo serves as a central hub for my notes, code implementations, and projec
 1. **Clone the repo:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/nlp-roadmap-journey.git](https://github.com/YOUR_USERNAME/nlp-roadmap-journey.git)
-
+```
 ### 2. Install requirements:
 
 ```bash
 pip install -r requirements.txt
 
-
+```
 
 ### 3. Explore:
 
