@@ -46,7 +46,7 @@ This repo serves as a central hub for my notes, code implementations, and projec
 ├── 05_Transformers/      # BERT, RoBERTa, and Hugging Face projects
 ├── 06_LLM_Ops/           # LangChain, RAG pipelines, and Vector DBs
 └── data/                 # Local datasets and corpus samples
-
+```
 
 ## 🛠️ Toolbelt
 
